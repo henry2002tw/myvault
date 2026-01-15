@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2e1976c548de579f",
+        "id": "f9fe6f904daa0379",
         "type": "tabs",
         "children": [
           {
-            "id": "1925587dffd1b283",
+            "id": "0bb8d82a67a12571",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MarkDown超级教程.md",
+                "file": "學理/忌出.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MarkDown超级教程"
+              "title": "忌出"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 235.5
   },
   "right": {
     "id": "d0d2401bf46783aa",
@@ -173,29 +173,38 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "1925587dffd1b283",
+  "active": "0bb8d82a67a12571",
   "lastOpenFiles": [
+    "學理/化忌轉忌/忌轉忌23-01.md",
+    "學理/化忌轉忌/忌轉忌23-21 忌的算法-4.md",
+    "學理/化忌轉忌/2025-03-28.md",
+    "學理/化忌轉忌/2025-03-27.md",
+    "18星曜/七殺.md",
+    "18星曜/破軍.md",
     "Welcome.md",
-    "忌出.md",
-    "七殺.md",
+    "MarkDown",
+    "論命主題",
+    "論命主題/桃花.md",
+    "MarkDown/MarkDown超级教程.md",
+    "18星曜",
+    "學理",
+    "學理/忌出.md",
     "Untitled.base",
     "Readme.md",
-    "一六共宗的緣由.md",
+    "學理/一六共宗的緣由.md",
     "祿.md",
-    "MarkDown超级教程.md",
-    "風花雪月.md",
-    "桃花.md",
-    "漂亮俊美.md",
+    "論命主題/風花雪月.md",
+    "論命主題/漂亮俊美.md",
     "歡迎.md"
   ]
 }

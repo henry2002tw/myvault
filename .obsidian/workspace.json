@@ -11,12 +11,14 @@
             "id": "b847a69daa1f9e60",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "附檔/60星盤/最長吉化串連/03 紫府在寅/03-1-紫府在寅+甲寅.pdf"
+                "file": "18星曜/七殺.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "03-1-紫府在寅+甲寅"
+              "icon": "lucide-file",
+              "title": "七殺"
             }
           }
         ]
@@ -183,6 +185,7 @@
   },
   "active": "b847a69daa1f9e60",
   "lastOpenFiles": [
+    "附檔/60星盤/最長吉化串連/03 紫府在寅/03-1-紫府在寅+甲寅.pdf",
     "18星曜/七殺.md",
     "60星盤/03紫微在寅/05壬寅.md",
     "60星盤/03紫微在寅/04庚寅.md",
@@ -228,7 +231,6 @@
     "60星盤/11紫微在戌/03戊寅.md",
     "60星盤/11紫微在戌/02丙寅.md",
     "60星盤/11紫微在戌/01甲寅.md",
-    "60星盤/10紫微在酉/05壬寅.md",
     "Untitled.canvas"
   ]
 }

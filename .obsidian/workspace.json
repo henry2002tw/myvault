@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "運氣位"
             }
+          },
+          {
+            "id": "fc5286269db102fb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "發行記錄 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "467fe0ebbdb51920",
+  "active": "fc5286269db102fb",
   "lastOpenFiles": [
     "18星曜/學習科目/曲昌.md",
     "學理/運氣位.md",

@@ -11,10 +11,14 @@
             "id": "2a6a775431220982",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "學理/與六親的緣分.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新分頁"
+              "title": "與六親的緣分"
             }
           }
         ]
@@ -179,8 +183,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a6a775431220982",
+  "active": "467fe0ebbdb51920",
   "lastOpenFiles": [
+    "學理/與六親的緣分.md",
     "學理/借貸.md",
     "學理/祿照或坐祿.md",
     "學理/一六共宗的緣由.md",
@@ -209,7 +214,6 @@
     "60星盤/01紫微在子/01甲寅.md",
     "18星曜/職業/天機.md",
     "附檔/論其吉手法圖.png",
-    "18星曜/職業/廉貞+貪狼.md",
     "附檔/星曜疾病位置/01星曜與器官關係.jpg",
     "附檔/星曜疾病位置/02星曜與器官關係.jpg",
     "附檔/星曜疾病位置/02星曜疾病.png",

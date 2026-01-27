@@ -11,10 +11,12 @@
             "id": "6d336dc3fb2904b4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新分頁"
+              "type": "image",
+              "state": {
+                "file": "附檔/論其吉手法圖.png"
+              },
+              "icon": "lucide-image",
+              "title": "論其吉手法圖"
             }
           }
         ]
